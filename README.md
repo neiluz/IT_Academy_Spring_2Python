@@ -1,6 +1,7 @@
 # IT_Academy_Spring_2Python
 
 **Objetivos generales**
+
 Conocer y entender los fundamentos básicos de Python.
 
 **Objetivos específicos**
